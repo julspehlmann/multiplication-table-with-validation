@@ -1,4 +1,4 @@
-Julia Spehlmann, UMass Lowell Computer Science, julia_spehlmann@student.uml.edu
+/*Julia Spehlmann, UMass Lowell Computer Science, julia_spehlmann@student.uml.edu
 COMP 4610 GUI Programming I
 Assignment 7: Using the jQuery Validation Plugin with Your Dynamic Table
 Copyright (c) 2018 by Julia Spehlmann. All rights reserved.
